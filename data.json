@@ -1,0 +1,46 @@
+{
+  "slider": [
+    {
+      "id": 1,
+      "title": "",
+      "subtitle": "",
+      "img": "",
+      "btn": ""
+    }
+  ],
+  "about": {
+    "title": "",
+    "subtitle": "",
+    "text": "",
+    "img": "",
+    "fb": "",
+    "tt": "",
+    "in": "",
+    "wa": ""
+  },
+  "gallery": [
+    {
+      "img": "",
+      "title": "",
+      "subtitle": ""
+    }
+  ],
+  "logo": [
+    {
+      "img": "",
+      "title": "",
+      "subtitle": ""
+    }
+  ],
+  "team": [
+    {
+      "name": "",
+      "deg": "",
+      "img": "",
+      "fb": "",
+      "tt": "",
+      "in": "",
+      "wa": ""
+    }
+  ]
+}
