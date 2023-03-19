@@ -31,7 +31,6 @@
     "phone": "+8801314185409",
     "email": "minhazursarker@gmail.com",
     "address": "dhaka"
- 
   },
   "gallery": [
     {
@@ -42,9 +41,16 @@
   ],
   "logo": [
     {
-      "img": "",
-      "title": "",
-      "subtitle": ""
+      "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/logo/1.jpg",
+      "title": "Company name"
+    },
+    {
+      "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/logo/1.jpg",
+      "title": "Company name"
+    },
+    {
+      "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/logo/1.jpg",
+      "title": "Company name"
     }
   ],
   "team": [
