@@ -26,6 +26,13 @@
     "in": "",
     "wa": ""
   },
+  "contact": {
+    "title": "Get in touch with us. We'll be very happy to get in touched.",
+    "phone": "+8801314185409",
+    "email": "minhazursarker@gmail.com",
+    "address": "dhaka"
+ 
+  },
   "gallery": [
     {
       "img": "",
@@ -42,8 +49,8 @@
   ],
   "team": [
     {
-      "name": "",
-      "deg": "",
+      "name": "Md Towhidur Rahman",
+      "deg": "Managing Director",
       "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/team/md.jpeg",
       "fb": "",
       "tt": "",
@@ -51,8 +58,8 @@
       "wa": ""
     },
     {
-      "name": "",
-      "deg": "",
+      "name": "MD ",
+      "deg": "General Manager",
       "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/team/gm.png",
       "fb": "",
       "tt": "",
