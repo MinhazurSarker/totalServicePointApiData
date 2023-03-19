@@ -5,7 +5,6 @@
       "title": "Slider One",
       "subtitle": "This is sub title one",
       "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/slider/slider1.jpg",
-      "text": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/slider/slider1.jpg",
       "btn": ""
     },
     {
@@ -13,7 +12,6 @@
       "title": "Slider Two",
       "subtitle": "This is sub title Two",
       "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/slider/slider1.jpg",
-      "text": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/slider/slider1.jpg",
       "btn": ""
     }
   ],
