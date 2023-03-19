@@ -9,10 +9,11 @@
     }
   ],
   "about": {
+    "highlight": "",
     "title": "",
     "subtitle": "",
     "text": "",
-    "img": "",
+    "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/team/md.jpeg",
     "fb": "",
     "tt": "",
     "in": "",
@@ -36,7 +37,16 @@
     {
       "name": "",
       "deg": "",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/team/md.jpeg",
+      "fb": "",
+      "tt": "",
+      "in": "",
+      "wa": ""
+    },
+    {
+      "name": "",
+      "deg": "",
+      "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/team/gm.png",
       "fb": "",
       "tt": "",
       "in": "",
