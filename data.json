@@ -2,8 +2,8 @@
   "slider": [
     {
       "id": 1,
-      "title": "",
-      "subtitle": "",
+      "title": "Slider One",
+      "subtitle": "This is sub title one",
       "img": "",
       "btn": ""
     }
