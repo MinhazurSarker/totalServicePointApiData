@@ -108,27 +108,27 @@
     "linkGroup1": [
       {
         "text": "Home",
-        "url": ""
+        "url": "#home"
       },
       {
         "text": "About",
-        "url": ""
+        "url": "#about"
       },
       {
         "text": "Services",
-        "url": ""
+        "url": "#services"
       },
       {
         "text": "Gallery",
-        "url": ""
+        "url": "#gallery"
       },
       {
         "text": "Team",
-        "url": ""
+        "url": "#team"
       },
       {
         "text": "Contact",
-        "url": ""
+        "url": "#contact"
       }
     ],
     "linkGroup2": [
