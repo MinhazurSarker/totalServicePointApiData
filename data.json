@@ -102,5 +102,62 @@
       "in": "",
       "wa": ""
     }
-  ]
+  ],
+  "footer": {
+    "text": "Total Service Point (TSP) Ltd is the one of the best leading housing solutions provider in Bangladesh. We have a vision of building the future Bangladesh",
+    "linkGroup1": [
+      {
+        "text": "",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": ""
+      }
+    ],
+    "linkGroup2": [
+      {
+        "text": "",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": ""
+      }
+    ],
+    "linkGroup3": [
+      {
+        "text": "",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": ""
+      }
+    ]
+  }
 }
