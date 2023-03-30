@@ -163,12 +163,12 @@
         "url": ""
       },
       {
-        "text": "Email",
-        "url": "towhid.bd84@gmail.com"
+        "text": "Email towhid.bd84@gmail.com",
+        "url": "mailto:towhid.bd84@gmail.com"
       },
       {
-        "text": "Phone",
-        "url": "+8801716242255"
+        "text": "Phone 01716242255",
+        "url": "tel:+8801716242255"
       }
     ]
   }
