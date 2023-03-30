@@ -28,9 +28,9 @@
   },
   "contact": {
     "title": "Get in touch with us. We'll be very happy to get in touched.",
-    "phone": "+8801314185409",
-    "email": "minhazursarker@gmail.com",
-    "address": "dhaka"
+    "phone": "+8801716242255",
+    "email": "towhid.bd84@gmail.com",
+    "address": "House 7, Road 25, Pallabi, Mirpur,Dhaka-1216"
   },
   "gallery": [
     {
@@ -128,38 +128,47 @@
     ],
     "linkGroup2": [
       {
-        "text": "",
+        "text": "Saturday : 9:30 am - 5:00 pm",
         "url": ""
       },
       {
-        "text": "",
+        "text": "Sunday : 9:30 am - 5:00 pm",
         "url": ""
       },
       {
-        "text": "",
+        "text": "Monday : 9:30 am - 5:00 pm",
         "url": ""
       },
       {
-        "text": "",
+        "text": "Tuesday : 9:30 am - 5:00 pm",
+        "url": ""
+      },
+      {
+        "text": "Wednesday : 9:30 am - 5:00 pm",
+        "url": ""
+      },
+      {
+        "text": "Thursday : 9:30 am - 5:00 pm",
+        "url": ""
+      },
+      {
+        "text": "Friday : 9:30 am - 12:00 pm",
         "url": ""
       }
+     
     ],
     "linkGroup3": [
       {
-        "text": "",
+        "text": "House 7, Road 25, Pallabi, Mirpur,Dhaka-1216",
         "url": ""
       },
       {
-        "text": "",
-        "url": ""
+        "text": "Email",
+        "url": "towhid.bd84@gmail.com"
       },
       {
-        "text": "",
-        "url": ""
-      },
-      {
-        "text": "",
-        "url": ""
+        "text": "Phone",
+        "url": "+8801716242255"
       }
     ]
   }
