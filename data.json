@@ -2,29 +2,33 @@
   "slider": [
     {
       "id": 1,
-      "title": "Building homes, building trust",
-      "subtitle": "Our experienced construction team is committed to delivering high-quality homes with exceptional craftsmanship, while also building lasting relationships with our clients",
+      "title": "Construction",
+      "subtitle": "Building homes, building trust",
+      "text": "Our experienced construction team is committed to delivering high-quality homes with exceptional craftsmanship, while also building lasting relationships with our clients",
       "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/slider/construction.jpg",
       "btn": ""
     },
     {
       "id": 2,
-      "title": "Transforming your vision into reality",
-      "subtitle": "Our design team works closely with clients to understand their vision and bring it to life with innovative and functional designs",
+      "title": "Designing",
+      "subtitle": "Transforming your vision into reality",
+      "text": "Our design team works closely with clients to understand their vision and bring it to life with innovative and functional designs",
       "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/slider/designing.jpg",
       "btn": ""
     },
     {
       "id": 3,
-      "title": "Guiding you every step of the way",
-      "subtitle": "Our consultancy services provide clients with expert guidance throughout the entire building process, from initial planning and design to construction and final touches",
+      "title": "Consultation",
+      "subtitle": "Guiding you every step of the way",
+      "text": "Our consultancy services provide clients with expert guidance throughout the entire building process, from initial planning and design to construction and final touches",
       "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/slider/consultency.jpg",
       "btn": ""
     },
     {
       "id": 4,
-      "title": "Creating spaces that inspire",
-      "subtitle": "Our interior design experts combine creativity and functionality to design beautiful and practical living spaces that reflect our clients' unique style and preferences",
+      "title": "Interior Design",
+      "subtitle": "Creating spaces that inspire",
+      "text": "Our interior design experts combine creativity and functionality to design beautiful and practical living spaces that reflect our clients' unique style and preferences",
       "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/slider/3d-house-decoration.jpg",
       "btn": ""
     }
