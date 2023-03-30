@@ -34,39 +34,34 @@
   },
   "gallery": [
     {
-      "img": "https://preview.uideck.com/items/arch/assets/images/gallery-4.jpg",
-      "title": "Modern House",
-      "subtitle": "New York, USA"
+      "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/gallery/6.jpg",
+      "title": "Koalàlumpur",
+      "subtitle": "Malaysia"
     },
     {
-      "img": "https://preview.uideck.com/items/arch/assets/images/gallery-4.jpg",
-      "title": "Modern House",
-      "subtitle": "New York, USA"
+      "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/gallery/5.jpg",
+      "title": "Koalàlumpur",
+      "subtitle": "Malaysia"
     },
     {
-      "img": "https://preview.uideck.com/items/arch/assets/images/gallery-4.jpg",
-      "title": "Modern House",
-      "subtitle": "New York, USA"
+      "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/gallery/4.jpg",
+      "title": "Marina Bay Sands",
+      "subtitle": "Singapore"
     },
     {
-      "img": "https://preview.uideck.com/items/arch/assets/images/gallery-4.jpg",
-      "title": "Modern House",
-      "subtitle": "New York, USA"
+      "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/gallery/3.jpg",
+      "title": "Canton Fair",
+      "subtitle": "October 2019, China"
     },
     {
-      "img": "https://preview.uideck.com/items/arch/assets/images/gallery-4.jpg",
-      "title": "Modern House",
-      "subtitle": "New York, USA"
+      "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/gallery/2.jpg",
+      "title": "Canton Fair",
+      "subtitle": "October 2019, China"
     },
     {
-      "img": "https://preview.uideck.com/items/arch/assets/images/gallery-4.jpg",
-      "title": "Modern House",
-      "subtitle": "New York, USA"
-    },
-    {
-      "img": "https://preview.uideck.com/items/arch/assets/images/gallery-4.jpg",
-      "title": "Modern House",
-      "subtitle": "New York, USA"
+      "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/gallery/1.jpg",
+      "title": "NETWORKING DINNER",
+      "subtitle": "FBCCI Bangladesh Business Summit 2023"
     }
   ],
   "logo": [
@@ -88,7 +83,7 @@
       "name": "Md Towhidur Rahman",
       "deg": "Managing Director",
       "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/team/md.jpeg",
-      "fb": "",
+      "fb": "https://web.facebook.com/towhid.bd84",
       "tt": "",
       "in": "",
       "wa": ""
