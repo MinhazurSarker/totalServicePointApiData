@@ -84,19 +84,24 @@
   ],
   "logo": [
     {
-      "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/logo/1.jpg",
-      "title": "Company name"
+      "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/logo/tsp.jpg",
+      "title": "Total Service Point (TSP) Ltd"
     },
     {
-      "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/logo/1.jpg",
-      "title": "Company name"
-    },
-    {
-      "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/logo/1.jpg",
-      "title": "Company name"
+      "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/logo/totostructuresltd.jpg",
+      "title": "Toto Structures Ltd"
     }
   ],
   "team": [
+    {
+      "name": "Ms Anika Afroz ",
+      "deg": "Chairman",
+      "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/team/gm.png",
+      "fb": "",
+      "tt": "",
+      "in": "",
+      "wa": ""
+    },
     {
       "name": "Md Towhidur Rahman",
       "deg": "Managing Director",
@@ -107,7 +112,7 @@
       "wa": ""
     },
     {
-      "name": "MD ",
+      "name": "MD Fuwad",
       "deg": "General Manager",
       "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/team/gm.png",
       "fb": "",
