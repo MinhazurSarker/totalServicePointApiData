@@ -89,15 +89,6 @@
   ],
   "team": [
     {
-      "name": "Mohammed Saiful islam",
-      "deg": "Chairman",
-      "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/team/cm.jpeg",
-      "fb": "",
-      "tt": "",
-      "in": "",
-      "wa": ""
-    },
-    {
       "name": "Md Towhidur Rahman",
       "deg": "Managing Director",
       "img": "https://raw.githubusercontent.com/MinhazurSarker/totalServicePointApiData/main/img/team/md.jpeg",
@@ -171,8 +162,16 @@
         "url": ""
       },
       {
+        "text": "House 7, Road 5, Pallabi, Mirpur,Dhaka-1216 +++ House:1332& 1347,Avenue-2,Mirpur DOHS,Dhaka.",
+        "url": ""
+      },
+      {
         "text": "Email towhid.bd84@gmail.com",
         "url": "mailto:towhid.bd84@gmail.com"
+      },
+      {
+        "text": "Email towhid@tspgroupbd.com",
+        "url": "mailto:towhid@tspgroupbd.com"
       },
       {
         "text": "Phone 01716242255",
