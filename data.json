@@ -48,7 +48,9 @@
     "title": "Get in touch with us. We'll be very happy to get in touched.",
     "phone": "+8801716242255",
     "email": "towhid.bd84@gmail.com",
-    "address": "House 7, Road 5, Pallabi, Mirpur,Dhaka-1216"
+    "email2": "towhid@tspgroupbd.com",
+    "address": "House 7, Road 5, Pallabi, Mirpur,Dhaka-1216",
+    "address2": "House:1332& 1347,Avenue-2,Mirpur DOHS,Dhaka."
   },
   "gallery": [
     {
@@ -162,7 +164,7 @@
         "url": ""
       },
       {
-        "text": "House 7, Road 5, Pallabi, Mirpur,Dhaka-1216 +++ House:1332& 1347,Avenue-2,Mirpur DOHS,Dhaka.",
+        "text": "House:1332& 1347,Avenue-2,Mirpur DOHS,Dhaka.",
         "url": ""
       },
       {
